@@ -47,6 +47,16 @@ This Power BI dashboard provides an in-depth analysis of Zomato's performance me
 ![User Dashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/User_Performance%20Screenshot.png)
 ![CityDashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/City%20Performance%20Screenshot.png)
 
+### **Challenges Faced During the Project**
+
+1. **Creating Relationships and Measures for Key Insights**  
+   While working on the Zomato dashboard, I encountered difficulties in establishing relationships between distinct tables, such as **orders** and **restaurants**. This challenge became particularly evident when merging the tables to create new measures, such as calculating the **rating count for each restaurant**. Integrating this information into the dashboard as part of the main KPIs also required thoughtful data modeling and iterative testing to ensure accuracy.
+
+2. **Dynamic Table Titles and Advanced Measures**  
+   A significant challenge was building **dynamic table titles** that responded to slicers, such as switching between **Top 5, Top 10, Top 50, and All** data views. Additionally, crafting advanced DAX measures that incorporated multiple `IF` condition statements demanded a deep understanding of DAX logic and thorough debugging to achieve the desired outcomes.
+
+3. **Interactive Features with Bookmarks**  
+   Implementing interactive features, such as **hiding filters** using bookmarks and adding **action-driven icons or dropdown buttons**, was particularly challenging. This required mastering bookmark functionality and synchronizing it with visuals and user actions to ensure seamless interaction. Achieving a polished and user-friendly design involved multiple iterations and testing.
 
 ## Getting Started
 1. Clone the repository.
