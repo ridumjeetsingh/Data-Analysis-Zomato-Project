@@ -2,9 +2,10 @@
 
 # Zomato Dashboard - City and User Insights
 
-This repository features a Power BI dashboard designed to visualize key performance metrics for Zomato, focusing on city-level performance, user activity, and sales trends.
+This Power BI dashboard provides an in-depth analysis of Zomato's performance metrics, focusing on city-level sales, user activity, and overall trends. Key features include interactive visuals for city-wise performance, user demographics, and yearly sales patterns. The dashboard is designed to help stakeholders make data-driven decisions with intuitive filters and insightful charts.
 
-## Key Features
+## Visualised File
+  - <a href="https://drive.google.com/file/d/1akqCF9KR3Vlh6Fg1a78k99Y_zELzDXg9/view?usp=drive_link"> Visualisation File </a> 
 
 ### 1. **Index Page**
    - A visually appealing landing page with Zomato branding, setting the theme for the dashboard.
@@ -36,11 +37,12 @@ This repository features a Power BI dashboard designed to visualize key performa
    - Dynamic filtering for Top 5, Top 10, and other city segments.
 
 ## Tools and Technologies
+
 - **Power BI**: For creating interactive and visually rich dashboards.
 - **Data Sources**: Data preparation and modeling within Power BI to structure insights effectively.
 
 ## Screenshots
-![Index Screenshot](./screenshots/index.png)  
+![Index Screenshot]([./screenshots/index.png](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/Index%20Screenshot.png))  
 ![Overview Screenshot](./screenshots/overview.png)  
 ![User Performance Screenshot](./screenshots/user_performance.png)  
 ![City Performance Screenshot](./screenshots/city_performance.png)
