@@ -42,12 +42,11 @@ This Power BI dashboard provides an in-depth analysis of Zomato's performance me
 - **Data Sources**: Data preparation and modeling within Power BI to structure insights effectively.
 
 ## Screenshots
-![Overview Dashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/Index%20Screenshot.png)
+![Index Dashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/Index%20Screenshot.png)
+![Overview Dashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/Overview_Screenshot.png)
+![User Dashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/User_Performance%20Screenshot.png)
+![CityDashboard](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/City%20Performance%20Screenshot.png)
 
-![Index Screenshot]([./screenshots/index.png](https://github.com/ridumjeetsingh/Data-Analysis-Zomato-Project/blob/main/Index%20Screenshot.png))  
-![Overview Screenshot](./screenshots/overview.png)  
-![User Performance Screenshot](./screenshots/user_performance.png)  
-![City Performance Screenshot](./screenshots/city_performance.png)
 
 ## Getting Started
 1. Clone the repository.
