@@ -56,6 +56,4 @@ This Power BI dashboard provides an in-depth analysis of Zomato's performance me
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and create a pull request.
 
----
-
-Feel free to adjust the content or provide additional information, and I can refine it further!
+#Feel free to adjust the content or provide additional information, and I can refine it further!
